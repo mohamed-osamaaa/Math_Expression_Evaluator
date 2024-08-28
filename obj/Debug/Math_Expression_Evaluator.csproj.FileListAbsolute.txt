@@ -1,0 +1,7 @@
+G:\CSharpFundamentals\CSharpFundamentals\Math_Expression_Evaluator\obj\Debug\Math_Expression_Evaluator.csproj.AssemblyReference.cache
+G:\CSharpFundamentals\CSharpFundamentals\Math_Expression_Evaluator\obj\Debug\Math_Expression_Evaluator.csproj.CoreCompileInputs.cache
+G:\CSharpFundamentals\CSharpFundamentals\Math_Expression_Evaluator\bin\Debug\Math_Expression_Evaluator.exe.config
+G:\CSharpFundamentals\CSharpFundamentals\Math_Expression_Evaluator\bin\Debug\Math_Expression_Evaluator.exe
+G:\CSharpFundamentals\CSharpFundamentals\Math_Expression_Evaluator\bin\Debug\Math_Expression_Evaluator.pdb
+G:\CSharpFundamentals\CSharpFundamentals\Math_Expression_Evaluator\obj\Debug\Math_Expression_Evaluator.exe
+G:\CSharpFundamentals\CSharpFundamentals\Math_Expression_Evaluator\obj\Debug\Math_Expression_Evaluator.pdb

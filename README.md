@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/853f94f9-22d1-4af6-a910-2fc5c9b9d364
 
 
 
-```markdown
+
 # Math Expression Evaluator
 
 This is a simple Math Expression Evaluator that allows you to enter mathematical expressions and evaluate them in various operations such as addition, subtraction, multiplication, division, modulus, power, and trigonometric functions (sin, cos, tan).
